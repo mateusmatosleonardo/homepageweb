@@ -12,3 +12,7 @@
     display: flex !important;
     flex-basis: auto;
 }
+
+.container{
+    background-color: #ccc;
+}
