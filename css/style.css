@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+.navbar a{
+    padding-left: 10px;
+    font-size: 26px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+}
