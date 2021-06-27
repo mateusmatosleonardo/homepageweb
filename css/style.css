@@ -29,7 +29,9 @@
 }
 
 .padding p{
+    text-align: center;
     font-family: 'Lato', sans-serif;
     color: white;
     font-size: 18px;
 }
+
