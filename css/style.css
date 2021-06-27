@@ -13,7 +13,15 @@
     flex-basis: auto;
 }
 
-.container{
+.sobre-nós{
     background-color: #ccc;
 }
 
+.padding{
+    padding: 150px 0;
+}
+
+.padding h2{
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+}
