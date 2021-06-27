@@ -14,7 +14,7 @@
 }
 
 .sobre-nós{
-    background-color: #ccc;
+    background-color: #1e2224;
 }
 
 .padding{
@@ -24,4 +24,10 @@
 .padding h2{
     font-family: 'Lato', sans-serif;
     font-weight: bolder;
+    color: white;
+}
+
+.padding p{
+    font-family: 'Lato', sans-serif;
+    color: white;
 }
